@@ -1,0 +1,1321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &220527333493068401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333493068402}
+  - component: {fileID: 220527333493068403}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (22)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333493068402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333493068401}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333493068403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333493068401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333514459256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333514459257}
+  - component: {fileID: 220527333514459258}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333514459257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333514459256}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: 2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333514459258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333514459256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333672315225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333672315226}
+  - component: {fileID: 220527333672315227}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333672315226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333672315225}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333672315227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333672315225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333686918305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333686918306}
+  - component: {fileID: 220527333686918307}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (23)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333686918306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333686918305}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333686918307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333686918305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333727788531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333727788532}
+  - component: {fileID: 220527333727788533}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333727788532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333727788531}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333727788533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333727788531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333761309320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333761309321}
+  - component: {fileID: 220527333761309322}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333761309321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333761309320}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333761309322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333761309320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333910612507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333910612508}
+  - component: {fileID: 220527333910612509}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (26)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333910612508
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333910612507}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: -2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333910612509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333910612507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527333959425598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333959425599}
+  - component: {fileID: 3259557771652567303}
+  - component: {fileID: 3189572696369936634}
+  m_Layer: 9
+  m_Name: Room LRB
+  m_TagString: Untagged
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333959425599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333959425598}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_Children:
+  - {fileID: 220527335308246513}
+  - {fileID: 220527333761309321}
+  - {fileID: 220527335077136906}
+  - {fileID: 220527334026283773}
+  - {fileID: 220527333727788532}
+  - {fileID: 220527333672315226}
+  - {fileID: 220527334358786378}
+  - {fileID: 220527334398358865}
+  - {fileID: 220527333514459257}
+  - {fileID: 220527334374741440}
+  - {fileID: 220527334784176490}
+  - {fileID: 220527334974421937}
+  - {fileID: 220527334161227219}
+  - {fileID: 220527335436651937}
+  - {fileID: 220527334790424671}
+  - {fileID: 220527335571326868}
+  - {fileID: 220527334367120563}
+  - {fileID: 220527333988739689}
+  - {fileID: 220527333493068402}
+  - {fileID: 220527333686918306}
+  - {fileID: 220527334772110865}
+  - {fileID: 220527334565227940}
+  - {fileID: 220527333910612508}
+  - {fileID: 220527334004143356}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3259557771652567303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333959425598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 883f1c93d8afdb445b8886b898ad7322, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+--- !u!61 &3189572696369936634
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333959425598}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &220527333988739688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527333988739689}
+  - component: {fileID: 220527333988739690}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (21)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527333988739689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333988739688}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527333988739690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527333988739688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334004143355
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334004143356}
+  - component: {fileID: 220527334004143357}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (27)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334004143356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334004143355}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: -3.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334004143357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334004143355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334026283772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334026283773}
+  - component: {fileID: 220527334026283774}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334026283773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334026283772}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334026283774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334026283772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334161227218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334161227219}
+  - component: {fileID: 220527334161227220}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (16)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334161227219
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334161227218}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334161227220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334161227218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334358786377
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334358786378}
+  - component: {fileID: 220527334358786379}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334358786378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334358786377}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: -3.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334358786379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334358786377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334367120562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334367120563}
+  - component: {fileID: 220527334367120564}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (20)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334367120563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334367120562}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334367120564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334367120562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334374741455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334374741440}
+  - component: {fileID: 220527334374741441}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334374741440
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334374741455}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: 3.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334374741441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334374741455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334398358864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334398358865}
+  - component: {fileID: 220527334398358866}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334398358865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334398358864}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: -2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334398358866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334398358864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334565227939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334565227940}
+  - component: {fileID: 220527334565227941}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (25)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334565227940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334565227939}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: 2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334565227941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334565227939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334772110864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334772110865}
+  - component: {fileID: 220527334772110866}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (24)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334772110865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334772110864}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: 3.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334772110866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334772110864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334784176489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334784176490}
+  - component: {fileID: 220527334784176491}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334784176490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334784176489}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334784176491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334784176489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334790424670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334790424671}
+  - component: {fileID: 220527334790424656}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (18)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334790424671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334790424670}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334790424656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334790424670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527334974421936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527334974421937}
+  - component: {fileID: 220527334974421938}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (15)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527334974421937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334974421936}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527334974421938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527334974421936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527335077136905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527335077136906}
+  - component: {fileID: 220527335077136907}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527335077136906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335077136905}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527335077136907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335077136905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527335308246512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527335308246513}
+  - component: {fileID: 220527335308246514}
+  m_Layer: 0
+  m_Name: Spawn Point Wall
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527335308246513
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335308246512}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527335308246514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335308246512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527335436651936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527335436651937}
+  - component: {fileID: 220527335436651938}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (17)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527335436651937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335436651936}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527335436651938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335436651936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
+--- !u!1 &220527335571326867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 220527335571326868}
+  - component: {fileID: 220527335571326869}
+  m_Layer: 0
+  m_Name: Spawn Point Wall (19)
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &220527335571326868
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335571326867}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.5, y: 4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 220527333959425599}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &220527335571326869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 220527335571326867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 520432b2e8d646b418399e57b686107a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 753314759420858005, guid: aa388fa95b3b61f40b6ecec1a843a1a9, type: 3}
+  - {fileID: 2953248084647287961, guid: 1105912e0b9ee7949b97bee9ea0dc9c7, type: 3}
+  - {fileID: 1605246257346921620, guid: 7918f24b3b810864b803cc1c16e1fb19, type: 3}
+  - {fileID: 2560347624677938677, guid: 2da264f18c9614a4792c5db4f6da9e71, type: 3}
+  - {fileID: 1991228482671382704, guid: f83cea81998aaea4ba67cf9fe4515bea, type: 3}
+  - {fileID: 6946638929464028753, guid: 6d7306551853df840bf08e9f628974e0, type: 3}
+  - {fileID: 541023507710263161, guid: 37a607da985e59842a48ec7c7055f948, type: 3}
